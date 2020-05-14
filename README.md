@@ -1,11 +1,12 @@
 # awesome iOS architecture [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-❤️ Support my app ❤️ 
+❤️ Support my apps ❤️ 
 
-- [Push Hero - pure Swift native macOS application to test push notifications](https://www.producthunt.com/posts/push-hero-2)
-- [PastePal - Pastboard, note and shortcut manager](https://www.producthunt.com/posts/pastepal)
-- [Frame recorder - Recorder gif and video with frame](https://www.producthunt.com/posts/frame-recorder)
-- [Other apps](https://onmyway133.github.io/projects/)
+- [Push Hero - pure Swift native macOS application to test push notifications](https://onmyway133.com/pushhero)
+- [PastePal - Pasteboard, note and shortcut manager](https://onmyway133.com/pastepal)
+- [Quick Check - smart todo manager](https://onmyway133.com/quickcheck)
+- [Alias - App and file shortcut manager](https://onmyway133.com/alias)
+- [My other apps](https://onmyway133.com/apps/)
 
 ❤️❤️😇😍🤘❤️❤️
 
@@ -114,6 +115,7 @@ Model View ViewModel
 - [CleanStore](https://github.com/Clean-Swift/CleanStore) A sample iOS app built using the Clean Swift architecture
 - [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) Example of Clean Architecture of iOS app using RxSwift :rocket:
 - [Reminders](https://github.com/tiagomartinho/Reminders) An iOS application written in Swift to demonstrate how to implement a Clean Architecture in iOS
+- [CleanSwiftArchitectureGenerator](https://github.com/emrcftci/CleanSwiftArchitectureGenerator) A generator of Clean Swift Architecture files
 
 # Unidirectional Data Flow
 
@@ -351,7 +353,6 @@ View Interactor Presenter
 - [SERVICE-ORIENTED APPDELEGATE](http://sizeof.io/service-oriented-appdelegate/)
 - [Lighter AppDelegate](http://www.fantageek.com/blog/2015/10/31/lighter-appdelegate/)
 - [Service-oriented AppDelegate](https://medium.com/ios-os-x-development/pluggableapplicationdelegate-e50b2c5d97dd#.scovfjixy)
-- [](https://medium.com/flawless-app-stories/clean-appdelegate-1903e27f72c1e)
 
 ### Repos
 
@@ -502,4 +503,4 @@ View Interactor Presenter
 
 Licence
 --
-This project is released under the MIT license. See LICENSE.md.
+This project is released under the MIT license. See [LICENSE.md.](https://github.com/onmyway133/awesome-ios-architecture/blob/master/LICENSE)
